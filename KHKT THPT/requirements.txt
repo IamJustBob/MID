@@ -1,0 +1,7 @@
+tkinter==8.6.11
+pickle-mixin==1.0.2
+keras==2.6.0
+numpy==1.21.2
+sounddevice==0.4.2
+soundfile==0.10.3
+faster-whisper==0.1.0
